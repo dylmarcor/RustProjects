@@ -10,5 +10,5 @@ fn main() {
     io::stdin().read_line(&mut guess)   // Get user's input and add to guess var
         .expect("Failed to read line"); // & is a reference
 
-    println!("You guess: {}") guess);
+    println!("You guess: {}", guess);
 }
