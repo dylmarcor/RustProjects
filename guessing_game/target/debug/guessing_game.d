@@ -1,1 +1,1 @@
-/Users/doctorspektor/code/rustprojects/guessing_game/target/debug/guessing_game.dSYM: /Users/doctorspektor/code/rustprojects/guessing_game/src/main.rs /Users/doctorspektor/code/rustprojects/guessing_game/src/lib.rs
+/Users/doctorspektor/code/rustprojects/guessing_game/target/debug/guessing_game.dSYM: /Users/doctorspektor/code/rustprojects/guessing_game/src/lib.rs /Users/doctorspektor/code/rustprojects/guessing_game/src/main.rs
