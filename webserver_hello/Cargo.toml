@@ -1,0 +1,8 @@
+[package]
+name = "webserver_hello"
+version = "0.1.0"
+authors = ["Dylmarcor <dylancorbett@me.com>"]
+
+[dependencies.nickel]
+
+git = "https://github.com/nickel-org/nickel.rs.git"
